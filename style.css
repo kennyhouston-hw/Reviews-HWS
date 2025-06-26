@@ -107,7 +107,7 @@ p{
 
 .btn-2 {
   color:#fff !important;
-  padding: 0 16px;
+  padding: 0 20px;
   background-color:#262626;
   
   &:hover{
@@ -297,5 +297,8 @@ a {
     .txt {
         font-size:15px;
         line-height:22px;
+    }
+    .my-btn {
+        font-size: 15px;
     }
 }
