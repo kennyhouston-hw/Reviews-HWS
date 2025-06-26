@@ -37,13 +37,13 @@ p{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 48px; /* или любой другой размер */
-  height: 48px; /* или любой другой размер */
-  border-radius: 50%; /* делает элемент круглым */
-  color: white; /* цвет буквы */
+  width: 48px; 
+  height: 48px; 
+  border-radius: 50%; 
+  color: white; 
   font-weight: bold;
-  font-size: 18px; /* размер буквы */
-  flex-shrink: 0; /* предотвращает сжатие аватара */
+  font-size: 18px; 
+  flex-shrink: 0; 
 }
   
 
@@ -51,7 +51,7 @@ p{
       overflow: hidden;
       display: -webkit-box;
       line-clamp: 5;
-      -webkit-line-clamp: 5; /* Количество строк перед обрезкой */
+      -webkit-line-clamp: 5; 
       -webkit-box-orient: vertical;
     }
 
