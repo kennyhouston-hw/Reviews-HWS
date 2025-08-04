@@ -74,8 +74,8 @@ p{
 
 .main-container {
     margin:0 auto; 
-    max-width: 1400px; 
-    padding: 0 40px;
+    max-width: 1200px; 
+    padding: 0 20px;
 }
 
 .my-btn {
@@ -302,3 +302,4 @@ a {
         font-size: 15px;
     }
 }
+
