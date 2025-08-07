@@ -26,7 +26,7 @@ body {
     letter-spacing: -1px;
     max-width: 600px;
     font-weight: 600;
-    padding: 64px 0 48px 0;
+    padding: 48px 0;
     margin:0;
 }
 
@@ -265,7 +265,7 @@ a {
 @media screen and (max-width:959px){
     .my-h1 {
         font-size: 52px;
-        padding: 48px 0 32px 0;
+        padding: 32px 0 32px 0;
     }
     .content-wrapper {
         flex-direction: column-reverse;
@@ -292,7 +292,7 @@ a {
     .my-h1 {
         font-size: 32px;
         line-height: 1.12;
-        padding: 32px 0 24px 0;
+        padding: 24px 0 24px 0;
     }
     .txt {
         font-size:15px;
@@ -302,4 +302,5 @@ a {
         font-size: 15px;
     }
 }
+
 
