@@ -1,4 +1,4 @@
-const CARDS_PER_PAGE = 9;
+const CARDS_PER_PAGE = 8;
 
 // Map для поиска инстанса по клику на read-more-link
 const instances = new Map();
